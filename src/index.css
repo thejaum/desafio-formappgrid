@@ -1,0 +1,30 @@
+input[type=text], select {
+    width: 97%;
+    padding: 12px 20px;
+    margin: 8px 16px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+button[type=button] {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 16px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+.container {
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: #e4e4e48a;
+    border: 2px solid #8291c765;
+}
+
+.actions span{
+    padding: 5px;
+}
